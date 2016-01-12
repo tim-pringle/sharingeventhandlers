@@ -1,1 +1,1 @@
-# sharingeventhandlers
+This repository provides an example of the use of sharing event handlers amongst controls
